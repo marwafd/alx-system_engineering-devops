@@ -1,7 +1,6 @@
 #!/bin/bash
 Repository roles.
 Set base permissions.
-View people with access.
-Manage individual access..
+View people with access..
 Cancel collaborator invitation.
 
